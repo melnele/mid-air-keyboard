@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/moham/Downloads/Bachelor/libs/jogl-2.4-b1472-20151116-windows-amd64/jar/jogl-all.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/moham/Downloads/Bachelor/libs/jogl-2.4-b1472-20151116-windows-amd64/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/moham/Downloads/Bachelor/libs/gluegen-2.4-b903-20151116-windows-amd64/jar/gluegen.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/Downloads/Bachelor/libs/gluegen-2.4-b903-20151116-windows-amd64/jar/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/Downloads/Bachelor/libs/gluegen-2.4-b903-20151116-windows-amd64/jar/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/Downloads/Bachelor/libs/jogamp-all-platforms/jar/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/Java3D/1.4.0_01/lib/ext/vecmath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/Downloads/Bachelor/libs/LeapDeveloperKit_2.3.1+31549_win/LeapSDK/lib/LeapJava.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/moham/Downloads/Bachelor/libs/LeapDeveloperKit_2.3.1+31549_win/LeapSDK/lib/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
